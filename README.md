@@ -1,3 +1,3 @@
 # my_first_rep
 
-# made for learning purposes
+made for learning purposes
